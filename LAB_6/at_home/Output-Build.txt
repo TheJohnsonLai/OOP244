@@ -1,0 +1,7 @@
+﻿1>------ Rebuild All started: Project: w6_at_home, Configuration: Debug Win32 ------
+1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\johnson lai\desktop\seneca\semester 2 [2017-17]\oop244 - c\lab_6\at_home\w6_at_home\debug\w6_at_home.exe' is denied.
+1>  w6_at_home.cpp
+1>  Contact.cpp
+1>  Generating Code...
+1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Johnson Lai\Desktop\Seneca\Semester 2 [2017-17]\OOP244 - C\LAB_6\at_home\w6_at_home\Debug\w6_at_home.exe'
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========

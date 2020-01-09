@@ -1,0 +1,10 @@
+
+In line number 4 of your output:
+The output should be:
+    ViolentCrimeRate         506.50         504.50         494.40         475.80         463.20
+But your output is: 
+    ViolentCrimeRate          506.5          504.5          494.4          475.8          463.2
+                             ^
+-----------------------------|
+Professor's character ASCII code: hex(35), dec(53)
+un-matched character ASCII code: hex(20), dec(32)

@@ -1,0 +1,14 @@
+// Reflection, workshop 10, Johnson Lai
+
+1. I  didn't attempt to place my functions in the .cpp file. Yes, it worked when the entire function was in the 
+header file. All of my functions were inside the header file.
+
+2. Yes, the template works when defined in the main .cpp file, before the main() function. However, it has to be 
+defined before main(), as otherwise the function wouldn't be defined when main() runs. Unless you define a prototype(?).
+
+3. 0, as integers do not store decimals.
+
+4. I believe so. The advantage of templates include simplicity, reducing code redundancy, and making it easier to code
+for multiple outputs. Mostly preventing redundancy.
+
+5. Yes. At least, in my code, I could call the functions with those 2 versions and no difference would be noticed.

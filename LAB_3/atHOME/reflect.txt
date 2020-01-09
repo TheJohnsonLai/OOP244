@@ -1,0 +1,11 @@
+1. I used many features of Object Oriented Programming in this lab, including that of class objects,
+private / public members of objects, and overloading ambiguous member functions. For example, I had functions
+writeName and writeCardInfo as private members so the user would only need to use write functions
+to choose which part to display. The actual coding for displaying wasn't shown, because it wasn't needed
+to be shown. This is part of modular design in OOP.
+
+2. First of all, the type for the credit card number is "unsigned long long". It has to be this because
+"int" cannot store more than 32 bits, and a 16 digit credit card number exceeds that size. Secondly, the 
+do-while loop in the main program loops through input of a credit card until the input is all valid.
+The exit statement is if the card is Valid - (!myCC.isValid) is saying if not object is Valid, continue
+while loop. And if While continues, print "Invalid input" and a new line.

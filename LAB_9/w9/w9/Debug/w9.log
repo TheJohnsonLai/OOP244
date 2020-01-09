@@ -1,0 +1,4 @@
+﻿  String.cpp
+c:\users\johnson lai\desktop\seneca\semester 2 [2017-17]\oop244 - c\lab_9\string.cpp(145): warning C4800: 'const char': forcing value to bool 'true' or 'false' (performance warning)
+  w9.vcxproj -> C:\Users\Johnson Lai\Desktop\Seneca\Semester 2 [2017-17]\OOP244 - C\LAB_9\w9\Debug\w9.exe
+  w9.vcxproj -> C:\Users\Johnson Lai\Desktop\Seneca\Semester 2 [2017-17]\OOP244 - C\LAB_9\w9\Debug\w9.pdb (Partial PDB)

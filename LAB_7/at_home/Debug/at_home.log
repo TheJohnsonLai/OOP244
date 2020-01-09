@@ -1,0 +1,11 @@
+﻿  w7_at_home.cpp
+  SuperHero.cpp
+  Hero.cpp
+c:\users\johnson lai\desktop\seneca\semester 2 [2017-17]\oop244 - c\lab_7\at_home\hero.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\johnson lai\desktop\seneca\semester 2 [2017-17]\oop244 - c\lab_7\at_home\hero.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  fight.cpp
+  Generating Code...
+  at_home.vcxproj -> C:\Users\Johnson Lai\Desktop\Seneca\Semester 2 [2017-17]\OOP244 - C\LAB_7\at_home\Debug\at_home.exe
+  at_home.vcxproj -> C:\Users\Johnson Lai\Desktop\Seneca\Semester 2 [2017-17]\OOP244 - C\LAB_7\at_home\Debug\at_home.pdb (Full PDB)

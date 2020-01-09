@@ -1,0 +1,15 @@
+1. A Safe empty state is the initial data held by an object such that it will not corrupt memory, 
+spew gibberish when used, or never end. It is essentially a safe initilization. For passenger, I 
+could set the strings as "Bob" and the date to January 1, 1990. Those are safe states as they represent
+their type correctly and do not overflow.
+
+2. A case where multiple Passenger constructors would be useful could be when clients receive multiple
+passengers and their information varies, from having all data available (names, date, destination) to
+passengers that are yet to have a confirmed flight (only name and destination) to a passenger of no 
+destination (refugee). In these cases, having to simply call the object with any data constructor would
+minimalize the worry over having all of the information to create information about the passenger.
+
+3. This workshop I learned how to call constructors and overload them. I also learned to use string 
+functions such as strcpy and strcmp, as long as disabling part of the source program to use strcpy. 
+Additionally I learned about strings and "empty" states, which are terminating characters '\0', which 
+helps me understand computer language a little bit more.

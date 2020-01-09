@@ -1,0 +1,4 @@
+kingdom.cpp: In function ‘void westeros::display(westeros::Kingdom*, int, char*)’:
+kingdom.cpp:52:40: error: ‘strcmp’ was not declared in this scope
+w2_at_home.cpp: In function ‘int main()’:
+w2_at_home.cpp:55:38: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]

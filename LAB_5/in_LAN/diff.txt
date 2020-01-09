@@ -1,0 +1,10 @@
+
+In line number 8 of your output:
+The output should be:
+Fraction E(8, 2); // E = 2
+But your output is: 
+Fraction E(8, 2); // E = 2/1
+                          ^
+--------------------------|
+Professor's character ASCII code: hex(0), dec(0)
+un-matched character ASCII code: hex(2f), dec(47)

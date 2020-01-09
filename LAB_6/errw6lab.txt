@@ -1,0 +1,2 @@
+Contact.cpp: In member function ‘void communication::Contact::display() const’:
+Contact.cpp:72:9: warning: variable ‘displayAr’ set but not used [-Wunused-but-set-variable]

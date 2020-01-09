@@ -1,0 +1,2 @@
+String.cpp: In member function ‘sict::String sict::String::operator+(const sict::String&) const’:
+String.cpp:189:21: error: request for member ‘m_pString’ in ‘this’, which is of non-class type ‘const sict::String* const’

@@ -1,0 +1,7 @@
+1. The memory used for the dynamic object is held, wasting physical bits. Exiting without deallocating 
+the memory will cause a memory leak.
+2. Static memory is assigned and destroyed within its scope, while dynamic memory can change size and
+is not freed unless forced to. As an example, I used dynamic memory for an array to hold a specific size
+of Kingdoms, while I used a static array to hold statistics of a set number of expected values.
+3. This workshop I learned about deallocating dynamic arrays, calling arrays in functions, and setting
+class objects to public / private.

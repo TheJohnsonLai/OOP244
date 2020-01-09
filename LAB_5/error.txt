@@ -1,0 +1,8 @@
+244_w5_home_prof.cpp: In function ‘int main()’:
+244_w5_home_prof.cpp:78:73: error: no match for ‘operator+=’ in ‘r += sict::Fraction(1, 4)’
+244_w5_home_prof.cpp:78:73: note: candidate is:
+Fraction.h:37:20: note: sict::Fraction& sict::operator+=(sict::Fraction&, sict::Fraction&)
+Fraction.h:37:20: note:   no known conversion for argument 2 from ‘sict::Fraction’ to ‘sict::Fraction&’
+Fraction.cpp:141:2: error: ‘Fractio’ does not name a type
+Fraction.cpp: In member function ‘sict::Fraction::operator int()’:
+Fraction.cpp:155:7: error: ‘a’ was not declared in this scope

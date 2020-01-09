@@ -1,0 +1,3 @@
+﻿  w5_in_lab.cpp
+c:\users\johnson lai\desktop\seneca\semester 2 [2017-17]\oop244 - c\lab_5\in_lan\w5_in_lab.cpp(62): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\johnson lai\desktop\seneca\semester 2 [2017-17]\oop244 - c\lab_5\in_lan\w5_in_lab.cpp(62): error C2228: left of '.display' must have class/struct/union
